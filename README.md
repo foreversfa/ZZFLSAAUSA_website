@@ -10,7 +10,7 @@
 * 会员的登入与登出
 * 登入会员浏览其他校友信息
 
-由于实现功能相对简单，开发小组将使用SQL作为Database，PHP作为server side language，以求最快速度做出网站雏形。
+由于实现功能相对简单，开发小组将使用```SQL```作为Database，```PHP```作为server side language，以求最快速度做出网站雏形。另外，我们还将使用```Bootstrap```来美化界面，```JQuery```来简化```Javascript```。
 
 * 网站开发：李立阳 （2011）
 * 网站设计：刘晓婵 （2011）
